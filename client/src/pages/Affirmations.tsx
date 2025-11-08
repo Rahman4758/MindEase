@@ -14,7 +14,7 @@ const Affirmations = () => {
     try {
       setIsGenerating(true);
       const token = localStorage.getItem("token");
-      const res = await fetch(`http://localhost:5000/api/affirmations?category=${cat}`, {
+      const res = await fetch(`https://mindease-e9jh.onrender.com/api/affirmations?category=${cat}`, {
         headers: { "Authorization": `Bearer ${token}` }
       });
       const data = await res.json();
@@ -30,7 +30,7 @@ const Affirmations = () => {
   const saveAffirmation = async () => {
     try {
       const token = localStorage.getItem("token");
-      await fetch("http://localhost:5000/api/affirmations/save", {
+      await fetch("https://mindease-e9jh.onrender.com/api/affirmations/save", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

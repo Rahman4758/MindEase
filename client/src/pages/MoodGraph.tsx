@@ -16,32 +16,13 @@ const MoodGraph = () => {
   const [bestDay, setBestDay] = useState<string | null>(null);
   const [trend, setTrend] = useState<string | null>(null);
 
-  // Mock mood data (in real app, this would come from your backend)
-  // const weeklyData = [
-  //   { day: "Mon", mood: 3, label: "Content" },
-  //   { day: "Tue", mood: 4, label: "Happy" },
-  //   { day: "Wed", mood: 2, label: "Sad" },
-  //   { day: "Thu", mood: 1, label: "Anxious" },
-  //   { day: "Fri", mood: 4, label: "Happy" },
-  //   { day: "Sat", mood: 5, label: "Joyful" },
-  //   { day: "Sun", mood: 3, label: "Content" },
-  // ];
-
-  // const monthlyData = [
-  //   { week: "Week 1", mood: 3.2, label: "Content" },
-  //   { week: "Week 2", mood: 2.8, label: "Mixed" },
-  //   { week: "Week 3", mood: 3.8, label: "Good" },
-  //   { week: "Week 4", mood: 4.1, label: "Happy" },
-  // ];
-
-  //const data = viewType === "weekly" ? weeklyData : monthlyData;
 
    useEffect(() => {
     const fetchData = async () => {
       try {
         const token = localStorage.getItem("token");
         const res = await axios.get(
-          `http://localhost:5000/api/mood/trends?period=${viewType}`,{
+          `https://mindease-e9jh.onrender.com/api/mood/trends?period=${viewType}`,{
              headers: {
     Authorization: `Bearer ${token}`}
           }

@@ -25,7 +25,7 @@ const fetchJournalEntries = useCallback(async () => {
   try {
     setLoading(true);
     const token = localStorage.getItem("token");
-    const response = await axios.get("http://localhost:5000/api/history", {
+    const response = await axios.get("https://mindease-e9jh.onrender.com/api/history", {
       params: {
         search: searchTerm || undefined,
         mood: selectedMood || undefined, 

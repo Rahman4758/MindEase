@@ -44,7 +44,7 @@ const Journal = () => {
     try {
       const token = localStorage.getItem("token"); 
       console.log("Token being sent:", token);
-      const response = await fetch("http://localhost:5000/api/journals", {
+      const response = await fetch("https://mindease-e9jh.onrender.com/api/journals", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
