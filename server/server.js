@@ -19,7 +19,7 @@ const PORT = process.env.PORT || 5001;
 connectDB(); // MongoDB connection
 
 app.use(cors({
-  origin: "http://localhost:8080",
+  origin: "https://mind-ease-drab.vercel.app/",
   credentials:true,  // // allows cookies/credentials
 }));
 app.use(express.json());
@@ -36,4 +36,5 @@ app.use("/api/mood", moodRoutes);
 
 app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
+
 });
