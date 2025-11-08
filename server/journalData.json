@@ -1,0 +1,272 @@
+[
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Had a great workout and started the day full of energy.",
+    "mood": "excited",
+    "advice": "Keep moving — consistency is key.",
+    "quote": "The only bad workout is the one that didn’t happen.",
+    "createdAt": "2025-10-01T09:00:00.000Z",
+    "updatedAt": "2025-10-01T09:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Felt anxious before a college presentation but managed it well.",
+    "mood": "anxious",
+    "advice": "Confidence grows when you face fear repeatedly.",
+    "quote": "Feel the fear and do it anyway.",
+    "createdAt": "2025-10-02T10:30:00.000Z",
+    "updatedAt": "2025-10-02T10:30:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Had a long productive day at work.",
+    "mood": "happy",
+    "advice": "Celebrate every small achievement.",
+    "quote": "Great things are done by a series of small things brought together.",
+    "createdAt": "2025-10-03T11:15:00.000Z",
+    "updatedAt": "2025-10-03T11:15:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Feeling a bit tired and low today.",
+    "mood": "sad",
+    "advice": "Rest your mind; low days are part of growth.",
+    "quote": "Stars can’t shine without darkness.",
+    "createdAt": "2025-10-04T13:00:00.000Z",
+    "updatedAt": "2025-10-04T13:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Weekend cleaning done — feeling accomplished.",
+    "mood": "neutral",
+    "advice": "Organization brings clarity.",
+    "quote": "Outer order contributes to inner calm.",
+    "createdAt": "2025-10-05T15:30:00.000Z",
+    "updatedAt": "2025-10-05T15:30:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Met friends for coffee, laughed a lot.",
+    "mood": "happy",
+    "advice": "Good company heals the mind.",
+    "quote": "Happiness is only real when shared.",
+    "createdAt": "2025-10-06T17:00:00.000Z",
+    "updatedAt": "2025-10-06T17:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Overthinking about future plans.",
+    "mood": "anxious",
+    "advice": "Focus on present actions; future will align.",
+    "quote": "Worrying doesn’t take away tomorrow’s troubles — it takes today’s peace.",
+    "createdAt": "2025-10-07T19:20:00.000Z",
+    "updatedAt": "2025-10-07T19:20:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Had an argument with sibling but resolved peacefully.",
+    "mood": "angry",
+    "advice": "Pause before reacting — calm words heal.",
+    "quote": "Speak in anger and you’ll make the best speech you regret.",
+    "createdAt": "2025-10-08T08:40:00.000Z",
+    "updatedAt": "2025-10-08T08:40:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Cooked dinner and watched a movie. Relaxed.",
+    "mood": "neutral",
+    "advice": "Enjoy small peaceful moments.",
+    "quote": "Peace is its own reward.",
+    "createdAt": "2025-10-09T21:00:00.000Z",
+    "updatedAt": "2025-10-09T21:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Finished a book and learned something new.",
+    "mood": "excited",
+    "advice": "Never stop learning; curiosity keeps you alive.",
+    "quote": "The beautiful thing about learning is nobody can take it away from you.",
+    "createdAt": "2025-10-10T10:00:00.000Z",
+    "updatedAt": "2025-10-10T10:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Work was stressful, many meetings today.",
+    "mood": "sad",
+    "advice": "Take short breaks; breathe deeply.",
+    "quote": "Don’t let the noise of the world drown your inner voice.",
+    "createdAt": "2025-10-11T13:00:00.000Z",
+    "updatedAt": "2025-10-11T13:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Went jogging and felt refreshed.",
+    "mood": "happy",
+    "advice": "Movement creates motivation.",
+    "quote": "Energy flows where attention goes.",
+    "createdAt": "2025-10-12T09:30:00.000Z",
+    "updatedAt": "2025-10-12T09:30:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Felt demotivated today, procrastinated a lot.",
+    "mood": "sad",
+    "advice": "Forgive yourself and start again tomorrow.",
+    "quote": "Progress, not perfection.",
+    "createdAt": "2025-10-13T16:45:00.000Z",
+    "updatedAt": "2025-10-13T16:45:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Had fun during weekend with family.",
+    "mood": "excited",
+    "advice": "Family time keeps you grounded.",
+    "quote": "Family is not an important thing, it’s everything.",
+    "createdAt": "2025-10-14T11:10:00.000Z",
+    "updatedAt": "2025-10-14T11:10:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Couldn’t sleep properly, felt anxious.",
+    "mood": "anxious",
+    "advice": "Try digital detox before bedtime.",
+    "quote": "Your calm mind is the ultimate weapon against your challenges.",
+    "createdAt": "2025-10-15T23:15:00.000Z",
+    "updatedAt": "2025-10-15T23:15:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Completed a difficult coding task.",
+    "mood": "happy",
+    "advice": "You’re growing — every solved problem counts.",
+    "quote": "Success is the sum of small efforts repeated day in and day out.",
+    "createdAt": "2025-10-16T14:45:00.000Z",
+    "updatedAt": "2025-10-16T14:45:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Had mild fever, stayed in bed most of the day.",
+    "mood": "sad",
+    "advice": "Your body needs rest — listen to it.",
+    "quote": "Healing takes time and rest.",
+    "createdAt": "2025-10-17T08:20:00.000Z",
+    "updatedAt": "2025-10-17T08:20:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Recovered well, feeling stronger today.",
+    "mood": "neutral",
+    "advice": "Your resilience is your strength.",
+    "quote": "Fall seven times, stand up eight.",
+    "createdAt": "2025-10-18T08:20:00.000Z",
+    "updatedAt": "2025-10-18T08:20:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Received appreciation from mentor.",
+    "mood": "excited",
+    "advice": "Positive feedback fuels confidence.",
+    "quote": "Appreciation is a wonderful thing.",
+    "createdAt": "2025-10-19T09:00:00.000Z",
+    "updatedAt": "2025-10-19T09:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Busy day but managed everything efficiently.",
+    "mood": "happy",
+    "advice": "Planning saves energy.",
+    "quote": "Either you run the day or the day runs you.",
+    "createdAt": "2025-10-20T12:00:00.000Z",
+    "updatedAt": "2025-10-20T12:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Feeling unmotivated — skipped tasks.",
+    "mood": "sad",
+    "advice": "Take one step; momentum will follow.",
+    "quote": "Start where you are. Use what you have.",
+    "createdAt": "2025-10-21T13:00:00.000Z",
+    "updatedAt": "2025-10-21T13:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Did meditation and felt calm.",
+    "mood": "neutral",
+    "advice": "Meditation resets your emotional state.",
+    "quote": "Peace comes from within. Do not seek it without.",
+    "createdAt": "2025-10-22T07:00:00.000Z",
+    "updatedAt": "2025-10-22T07:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Went on a short trip — felt refreshed.",
+    "mood": "happy",
+    "advice": "Travel broadens perspective.",
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "createdAt": "2025-10-23T10:00:00.000Z",
+    "updatedAt": "2025-10-23T10:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Had minor conflict at work but stayed calm.",
+    "mood": "angry",
+    "advice": "Emotional control is strength.",
+    "quote": "Anger is one letter short of danger.",
+    "createdAt": "2025-10-24T14:00:00.000Z",
+    "updatedAt": "2025-10-24T14:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Rainy day, stayed home and watched movies.",
+    "mood": "neutral",
+    "advice": "Embrace stillness; it's restorative.",
+    "quote": "Sometimes doing nothing makes way for everything.",
+    "createdAt": "2025-10-25T18:00:00.000Z",
+    "updatedAt": "2025-10-25T18:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Prepared for exam, feeling confident.",
+    "mood": "excited",
+    "advice": "Believe in your preparation.",
+    "quote": "Confidence comes from discipline and training.",
+    "createdAt": "2025-10-26T09:00:00.000Z",
+    "updatedAt": "2025-10-26T09:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Exam went well! Feeling relieved.",
+    "mood": "happy",
+    "advice": "Trust your efforts — they pay off.",
+    "quote": "Effort never betrays you.",
+    "createdAt": "2025-10-27T10:00:00.000Z",
+    "updatedAt": "2025-10-27T10:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Feeling exhausted but satisfied.",
+    "mood": "neutral",
+    "advice": "Balance work and rest equally.",
+    "quote": "Rest is not idleness; it is restoration.",
+    "createdAt": "2025-10-28T19:00:00.000Z",
+    "updatedAt": "2025-10-28T19:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Had a heart-to-heart with a friend.",
+    "mood": "happy",
+    "advice": "Open communication strengthens bonds.",
+    "quote": "A true friend is the greatest of all blessings.",
+    "createdAt": "2025-10-29T17:00:00.000Z",
+    "updatedAt": "2025-10-29T17:00:00.000Z"
+  },
+  {
+    "user": "68c485e60edd4d9af12a4f2a",
+    "content": "Had an emotional day, missed home.",
+    "mood": "sad",
+    "advice": "Emotions remind you you’re alive — honor them.",
+    "quote": "It’s okay to miss people who made you smile.",
+    "createdAt": "2025-10-30T22:00:00.000Z",
+    "updatedAt": "2025-10-30T22:00:00.000Z"
+  }
+]
